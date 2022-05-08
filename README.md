@@ -5,8 +5,6 @@
 ### Purpose
 Steve’s parents are looking to invest in green energy so we helped Steve create a Visual Basic for Applications code that analyzed a dozen of green energy stocks. Taking it another step, we refactored the original code to allow it to run more quickly and smoothly. In addition to quicker run time, refactoring the code allowed it to run for the entire stock market which included thousands of different data points. Steve and his parents can now look through the entire stock market for green energy with visual indicators and better readability. 
 
-## Results
-
 ### Analysis
 
 <img width="515" alt="Original_AllStocksAnalysis" src="https://user-images.githubusercontent.com/103657822/167312150-5a23cfeb-fde4-4856-994e-9750de617159.png">
@@ -17,3 +15,8 @@ The picture above shows the original code that we used. As you can see, we used 
 <img width="244" alt="Refractored_AllStocksAnalysis2" src="https://user-images.githubusercontent.com/103657822/167313289-1019e0b7-1dff-460d-a923-1cd75d2dca3e.png">
 
 The code above is our refractored All Stocks Analysis. In the refractored code we used separate For loops. The first For loop set tickerVolumes value to 0. Then the code would move onto the next For loop which gave each array their volume, starting price, and ending price.
+
+### Results
+
+<img width="259" alt="Original_AllStocksAnalysis_2017" src="https://user-images.githubusercontent.com/103657822/167314002-0aaddb54-7c14-43b6-af51-ad27ace8abb4.png"><img width="260" alt="Original_AllStocksAnalysis_2018" src="https://user-images.githubusercontent.com/103657822/167314008-59d7fcb6-54db-4c7b-8786-cc28d4a0a8e0.png">
+
