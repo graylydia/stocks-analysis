@@ -30,3 +30,7 @@ The image on the left shows that it took 0.7460938 seconds for the original code
 For the year 2018, the original code ran in 0.7695312 which is shown by the image on the left. The image on the right indicates that the refractored code ran in 0.171875 for 2018. The time difference between these run times is 0.5976562. The refractored code is 22.34% quicker for the year 2018.
 
 ## Summary
+
+Refractoring code has many advantages. As we saw the refractored code ran in much less time than our original code. Additionally, refractored code is much more readable. When comparing our original code to the refractored code, there is a noticable difference in the simplicity, cleaniness, and organization of it. Another advantage is that if something were to create an error, it is easier to debug. However, there are some disadvantages to refractoring. For example, some code may be very long and refractoring it can take awhile and create new errors in itself. 
+
+
