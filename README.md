@@ -5,7 +5,7 @@
 ### Purpose
 Steve’s parents are looking to invest in green energy so we helped Steve create a Visual Basic for Applications code that analyzed a dozen of green energy stocks. Taking it another step, we refactored the original code to allow it to run more quickly and smoothly. In addition to quicker run time, refactoring the code allowed it to run for the entire stock market which included thousands of different data points. Steve and his parents can now look through the entire stock market for green energy with visual indicators and better readability. 
 
-# Analysis
+## Analysis
 
 <img width="515" alt="Original_AllStocksAnalysis" src="https://user-images.githubusercontent.com/103657822/167312150-5a23cfeb-fde4-4856-994e-9750de617159.png">
 
@@ -29,4 +29,4 @@ The image on the left shows that it took 0.7460938 seconds for the original code
 
 For the year 2018, the original code ran in 0.7695312 which is shown by the image on the left. The image on the right indicates that the refractored code ran in 0.171875 for 2018. The time difference between these run times is 0.5976562. The refractored code is 22.34% quicker for the year 2018.
 
-# Summary
+## Summary
