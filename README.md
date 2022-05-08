@@ -18,5 +18,5 @@ The code above is our refractored All Stocks Analysis. In the refractored code w
 
 ### Results
 
-<img width="259" alt="Original_AllStocksAnalysis_2017" src="https://user-images.githubusercontent.com/103657822/167314002-0aaddb54-7c14-43b6-af51-ad27ace8abb4.png"><img width="260" alt="Original_AllStocksAnalysis_2018" src="https://user-images.githubusercontent.com/103657822/167314008-59d7fcb6-54db-4c7b-8786-cc28d4a0a8e0.png">
+<img width="259" alt="Original_AllStocksAnalysis_2017" src="https://user-images.githubusercontent.com/103657822/167314002-0aaddb54-7c14-43b6-af51-ad27ace8abb4.png">      <img width="260" alt="Original_AllStocksAnalysis_2018" src="https://user-images.githubusercontent.com/103657822/167314008-59d7fcb6-54db-4c7b-8786-cc28d4a0a8e0.png">
 
