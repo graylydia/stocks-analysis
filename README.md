@@ -21,9 +21,10 @@ The code above is our refractored All Stocks Analysis. In the refractored code w
 <img width="259" alt="Original_AllStocksAnalysis_2017" src="https://user-images.githubusercontent.com/103657822/167314002-0aaddb54-7c14-43b6-af51-ad27ace8abb4.png">      <img width="269" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/103657822/167314144-45db28bc-74e4-4a70-ae92-7720aa56677f.png">
 
 
-The image on the left shows that it took 0.7460938 seconds for the original code to run. Whereas the image on the right shows that it took 0.14484375 for the refractored code to run. The time difference between the two is 0.5976563. That is 19.90% faster than the original code.
+The image on the left shows that it took 0.7460938 seconds for the original code to run for the year 2017. Whereas the image on the right shows that it took 0.14484375 for the year 2017 refractored code to run. The time difference between the two is 0.5976563. That is 19.90% faster than the original code.
 
 
 <img width="260" alt="Original_AllStocksAnalysis_2018" src="https://user-images.githubusercontent.com/103657822/167314405-9481ac90-4824-4850-adee-6b609bde79ae.png">      <img width="267" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/103657822/167314413-9ab18df0-da97-44f7-83f6-1cc22c10fd59.png">
 
 
+For the year 2018, the original code ran in 0.7695312 which is shown by the image on the left. The image on the right indicates that the refractored code ran in 0.171875 for 2018. The time difference between these run times is 0.5976562. The refractored code is 22.34% quicker for the year 2018.
