@@ -16,4 +16,4 @@ The picture above shows the original code that we used. As you can see, we used 
 <img width="678" alt="Refractored All Stocks Analysis" src="https://user-images.githubusercontent.com/103657822/167313226-3354d25f-59ab-4f09-80ea-68606f1d6ad7.png">
 <img width="244" alt="Refractored_AllStocksAnalysis2" src="https://user-images.githubusercontent.com/103657822/167313289-1019e0b7-1dff-460d-a923-1cd75d2dca3e.png">
 
-In the refractored code we used separate For loops. The first For loop set tickerVolumes value to 0. Then the code would move onto the next For loop which gave each array their volume, starting price, and ending price.
+The code above is our refractored All Stocks Analysis. In the refractored code we used separate For loops. The first For loop set tickerVolumes value to 0. Then the code would move onto the next For loop which gave each array their volume, starting price, and ending price.
