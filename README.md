@@ -5,7 +5,7 @@
 ### Purpose
 Steve’s parents are looking to invest in green energy so we helped Steve create a Visual Basic for Applications code that analyzed a dozen of green energy stocks. Taking it another step, we refactored the original code to allow it to run more quickly and smoothly. In addition to quicker run time, refactoring the code allowed it to run for the entire stock market which included thousands of different data points. Steve and his parents can now look through the entire stock market for green energy with visual indicators and better readability. 
 
-### Analysis
+# Analysis
 
 <img width="515" alt="Original_AllStocksAnalysis" src="https://user-images.githubusercontent.com/103657822/167312150-5a23cfeb-fde4-4856-994e-9750de617159.png">
 
@@ -16,7 +16,7 @@ The picture above shows the original code that we used. As you can see, we used 
 
 The code above is our refractored All Stocks Analysis. In the refractored code we used separate For loops. The first For loop set tickerVolumes value to 0. Then the code would move onto the next For loop which gave each array their volume, starting price, and ending price.
 
-### Results
+## Results
 
 <img width="259" alt="Original_AllStocksAnalysis_2017" src="https://user-images.githubusercontent.com/103657822/167314002-0aaddb54-7c14-43b6-af51-ad27ace8abb4.png">      <img width="269" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/103657822/167314144-45db28bc-74e4-4a70-ae92-7720aa56677f.png">
 
@@ -29,4 +29,4 @@ The image on the left shows that it took 0.7460938 seconds for the original code
 
 For the year 2018, the original code ran in 0.7695312 which is shown by the image on the left. The image on the right indicates that the refractored code ran in 0.171875 for 2018. The time difference between these run times is 0.5976562. The refractored code is 22.34% quicker for the year 2018.
 
-### Summary
+# Summary
