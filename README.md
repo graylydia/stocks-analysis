@@ -28,3 +28,5 @@ The image on the left shows that it took 0.7460938 seconds for the original code
 
 
 For the year 2018, the original code ran in 0.7695312 which is shown by the image on the left. The image on the right indicates that the refractored code ran in 0.171875 for 2018. The time difference between these run times is 0.5976562. The refractored code is 22.34% quicker for the year 2018.
+
+### Summary
