@@ -31,6 +31,6 @@ For the year 2018, the original code ran in 0.7695312 which is shown by the imag
 
 ## Summary
 
-Refractoring code has many advantages. As we saw the refractored code ran in much less time than our original code. Additionally, refractored code is much more readable. When comparing our original code to the refractored code, there is a noticable difference in the simplicity, cleaniness, and organization of it. Another advantage is that if something were to create an error, it is easier to debug. However, there are some disadvantages to refractoring. For example, some code may be very long and refractoring it can take awhile and create new errors in itself. 
+Refractoring code has many advantages. As we saw from the results of the refractored and original code, the refractored code ran in much less time than our original code. Additionally, refractored code is much more readable. When comparing our original code to the refractored code, there is a noticable difference in the simplicity, cleaniness, and organization of it. Another advantage is that if something were to create an error, it is easier to debug. However, there are some disadvantages to refractoring. For example, some code may be very long and refractoring can take awhile and create new errors in itself. Luckily, our original code was not too long and and did not take awhile to refractor.
 
 
